@@ -15,3 +15,19 @@ body{
     margin-right: 750px;
     border-radius: 50%;
 }
+
+.d-block{
+    
+    margin-left: 350px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.titulo{
+    font-size: xx-large;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 80px;
+
+}
+
